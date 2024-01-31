@@ -24,8 +24,7 @@ Este é um aplicativo de lista de tarefas simples desenvolvido com React e TypeS
 1. Clone este repositório:
 
    ```bash
-   git clone [https://github.com/seu-usuario/seu-projeto.git](https://github.com/alanls1/To-do-List.git)
-   ```
+   git clone https://github.com/alanls1/To-do-List.git
 
 2. Navegue até o diretório do projeto:
 
